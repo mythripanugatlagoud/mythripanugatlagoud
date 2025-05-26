@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mythripanugatlagoud" alt="mythripanugatlagoud" /></a> </p>
 
-- 🌱 I’m currently learning **frontend**
+-  I’m currently learning **frontend and datascience**
 
-- 📫 How to reach me **mp9816@srmist.edu.in**
+-  How to reach me **mp9816@srmist.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
