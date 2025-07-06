@@ -27,7 +27,7 @@
 
 ---
 
-### 🔭 Currently Working On
+###  Currently Working On
 - **Air Object Path Prediction System** – A DRDO-sponsored project involving Qt, PostgreSQL & ML   
 - **Portfolio Website** – Built with React + Tailwind CSS [🔗 Coming soon]
 
