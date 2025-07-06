@@ -38,13 +38,6 @@
 - **Beginner-friendly ML tools using Python & Flask**  
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 ##  GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mythripanugatlagoud&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythripanugatlagoud&layout=compact)
