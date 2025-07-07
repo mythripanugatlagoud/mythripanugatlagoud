@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythripanugatlagoud&label=Profile%20views&color=0e75b6&style=flat" alt="mythripanugatlagoud" /> </p>
 
-- I’m currently learning **Full stack and data structure algorithm**
+- I’m currently learning **Full stack and Data structure algorithm**
 
 - How to reach me **mp9816@srmist.edu.in** & **mythripanugatla@gmail.com** 
 
