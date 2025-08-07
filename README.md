@@ -7,7 +7,7 @@
   I'm a passionate Computer Science student, constantly exploring new technologies and expanding my skill set. Proficient in C, C++, and Python, I’m especially enthusiastic about applying them in the fields of Machine Learning and Artificial Intelligence. My growing interest in Full-Stack Development comes from my desire to build applications end-to-end, combining both front-end creativity and back-end logic to bring complete ideas to life. 
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythripanugatlagoud&label=Profile%20views&color=0e75b6&style=flat" alt="mythripanugatlagoud" /> </p> 
-
+ 
 - I’m currently learning **Full stack and Data structure algorithm**
 
 - How to reach me **mp9816@srmist.edu.in** & **mythripanugatla@gmail.com** 
