@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Mythri Panugatla 👋</h1>  
 <h2 align="center"> 
-  Pre Final-year B.Tech student | AI & Full Stack Enthusiast | DRDO EX-Intern <br>   
+  Pre Final-year B.Tech student | AI & Full Stack Enthusiast | DRDO EX-Intern <br>     
   Passionate about building impactful software & learning emerging tech 
 </h2>  
 <h3 align="center">     
