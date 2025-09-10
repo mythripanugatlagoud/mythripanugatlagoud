@@ -2,7 +2,7 @@
 <h2 align="center">    
   Pre Final-year B.Tech student | AI & Full Stack Enthusiast | DRDO EX-Intern <br>     
   Passionate about building impactful software & learning emerging tech 
-</h2>  
+</h2>       
 <h3 align="center">     
   I'm a passionate Computer Science student, constantly exploring new technologies and expanding my skill set. Proficient in C, C++, and Python, I’m especially enthusiastic about applying them in the fields of Machine Learning and Artificial Intelligence. My growing interest in Full-Stack Development comes from my desire to build applications end-to-end, combining both front-end creativity and back-end logic to bring complete ideas to life. 
 </h3>
